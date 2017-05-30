@@ -5,7 +5,7 @@ public class Adventure {
 	public static void main(String[] args) {
 		
 		System.out.println("WELCOME TO MITCHELL'S TINY ADVENTURE!");
-		//Scanner keyboard = new Scanner(System.in);
+		
 		chooseAdventure();
 		
 	}
